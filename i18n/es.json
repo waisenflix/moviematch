@@ -1,0 +1,12 @@
+{
+  "LANG": "es",
+  "LOGIN_NAME": "Nombre",
+  "LOGIN_ROOM_CODE": "Código de sala",
+  "LOGIN_SUBMIT": "Unirse",
+  "RATE_SECTION_LOADING": "Cargando películas...",
+  "RATE_SECTION_EXHAUSTED_CARDS": "Eso es todo amigos ✌️",
+  "MATCHES_SECTION_TITLE": "Matches",
+  "MATCHES_SECTION_NO_MATCHES": "No has hecho match todavía. Deberías considerar poner en compromiso tu impecable gusto y rebajar tus expectativas.",
+  "MATCHES_SECTION_CARD_LIKERS": "$USERS quieren ver $MOVIE",
+  "LIST_CONJUNCTION": "y"
+}
